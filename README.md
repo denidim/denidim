@@ -206,7 +206,6 @@
 * [JS Front-End](https://softuni.bg/certificates/details/170818/16bed417)
 * [Software Engineering and DevOps](https://softuni.bg/certificates/details/219748/e95746d9)
 * [Containers and Cloud](https://softuni.bg/certificates/details/224758/02073a9b)
-<br>
 ------------------------------------------------------------------------------------------------------------
 
 
