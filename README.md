@@ -35,7 +35,7 @@
             width="60" 
             height="60" />
     </a>
-    <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"         rel="noreferrer"> <img
+    <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img
             src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"
             alt="csharp" 
             width="60" 
@@ -46,6 +46,20 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" 
             width="60" 
+            height="60" /> 
+    </a> 
+    <a href="https://nunit.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4"
+            alt="nunit" 
+            width="60"
+            height="60" /> 
+    </a> 
+    <a href="https://github.com/moq" target="_blank"
+        rel="noreferrer"> <img
+            src="https://avatars.githubusercontent.com/u/1434934?s=280&v=4"
+            alt="nunit" 
+            width="60"
             height="60" /> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
