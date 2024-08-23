@@ -9,16 +9,16 @@
 - 🚀 I’m currently looking for new opportunities in .NET or DevOps world. Feel free to reach out to me at denislav.y.dimitrov@gmail.com.
 
 
-- :technologist: My projects are available at https://github.com/denidim
+- :technologist: My projects are available at https://github.com/denidim?tab=repositories
 
 - 📫 How to reach me: denislav.y.dimitrov@gmail.com
 
 - ⚡ Fun fact: :avocado: Avocados are actually fruits, not vegetables
 
 ------------------------------------------------------------------------------------------------------------
- <div align="center">  
-### 🤝 Connect with me: &nbsp;<a href="https://www.linkedin.com/in/denis-dimitrov-271bb9324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/denis-dimitrov-271bb9324" height="30" width="40" /></a>
-</div>
+
+ ### 🤝 Connect with me: &nbsp;<a href="https://www.linkedin.com/in/denis-dimitrov-271bb9324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/denis-dimitrov-271bb9324" height="30" width="40" /></a>
+ 
 ----------------------------------------------------------------------------------------------------------
 
 <div align="center">  
