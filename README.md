@@ -1,15 +1,16 @@
- <div align="center" >
-   
-   ### Hi there 👋
-   
+<div align="center">
+
+### Hi there 👋 I'm Denislav, a .NET developer
+
 </div>
 
+- 🛠️ I designed, built and run a live online booking platform for **Plumbing Handyman Surrey**, a plumbing and handyman business I co-founded in Chessington, UK. Customers pick a time slot and pay a £50 deposit by card; the owner runs every job, invoice and payment from an admin panel.
+  - Code: [HandyFix-Project](https://github.com/denidim/HandyFix-Project) (ASP.NET Core MVC on .NET 10, EF Core, SQL Server, Stripe, over 1,100 automated tests, CI/CD with GitHub Actions)
+  - Live site: [plumbing-handyman-surrey.co.uk](https://plumbing-handyman-surrey.co.uk)
 
+- 🎓 Professional diploma: [Back-End Software Engineer with C#](https://softuni.bg/certificates/details/252996/c667e400), Software University (SoftUni), 2025, plus courses in DevOps, containers and cloud.
 
-- 🚀 I’m currently looking for new opportunities in .NET or DevOps world. Feel free to reach out to me at denislav.y.dimitrov@gmail.com.
-
-
-- :technologist: My projects are available at https://github.com/denidim?tab=repositories
+- 🚀 I'm looking for a .NET developer role, back-end or full-stack, in the UK: on site, hybrid or remote.
 
 - 📫 How to reach me: denislav.y.dimitrov@gmail.com
 
@@ -18,7 +19,7 @@
 ------------------------------------------------------------------------------------------------------------
 
 <div align="center">
- <h3> 🤝 Connect with me: &nbsp;<a href="https://www.linkedin.com/in/denis-dimitrov-271bb9324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/denis-dimitrov-271bb9324" height="30" width="40" /></a>
+ <h3> 🤝 Connect with me: &nbsp;<a href="https://www.linkedin.com/in/denislav-dimitrov-271bb9324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/denis-dimitrov-271bb9324" height="30" width="40" /></a>
  </h3>
 </div>
 
@@ -195,6 +196,7 @@
 ------------------------------------------------------------------------------------------------------------
 <h2 align="center"> :bookmark_tabs: Certificates</h2>
 
+* **[Diploma: Back-End Software Engineer with C#](https://softuni.bg/certificates/details/252996/c667e400)**
 * [Programming Basics with C#](https://softuni.bg/certificates/details/109638/62af1805)
 * [Programming Fundamentals with C#](https://softuni.bg/certificates/details/119924/d63e68a2)
 * [C# Advanced](https://softuni.bg/certificates/details/123633/a0915dac)
@@ -206,6 +208,7 @@
 * [JS Front-End](https://softuni.bg/certificates/details/170818/16bed417)
 * [Software Engineering and DevOps](https://softuni.bg/certificates/details/219748/e95746d9)
 * [Containers and Cloud](https://softuni.bg/certificates/details/224758/02073a9b)
+* [HTML & CSS](https://softuni.bg/certificates/details/252781/161e6f31)
 ------------------------------------------------------------------------------------------------------------
 
 
